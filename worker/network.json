@@ -1,0 +1,173 @@
+[
+  {
+    "id": "N20",
+    "unlock": 20,
+    "edge": [
+      19,
+      20
+    ],
+    "prompt": {
+      "en": "What do the first two investigations jointly establish?",
+      "id": "Apa yang dipastikan bersama oleh dua investigasi pertama?"
+    },
+    "options": [
+      {
+        "en": "Verified shared administration through matched bank events and agency receipts",
+        "id": "Administrasi bersama terverifikasi melalui kejadian bank cocok serta kuitansi agensi"
+      },
+      {
+        "en": "A single central leader already identified by a code alone",
+        "id": "Satu pemimpin pusat sudah dikenali hanya dari kode"
+      },
+      {
+        "en": "No relationship despite matched original events",
+        "id": "Tidak ada hubungan meski kejadian asli cocok"
+      },
+      {
+        "en": "Equal knowledge among all identity clients",
+        "id": "Pengetahuan setara semua klien identitas"
+      }
+    ],
+    "answer": 0,
+    "explanation": {
+      "en": "Verified shared administration through matched bank events and agency receipts",
+      "id": "Administrasi bersama terverifikasi melalui kejadian bank cocok serta kuitansi agensi"
+    },
+    "refs": [
+      "E19-13",
+      "E20-09",
+      "E20-10"
+    ],
+    "status": "VERIFIED",
+    "domain": "pattern"
+  },
+  {
+    "id": "N21",
+    "unlock": 21,
+    "edge": [
+      20,
+      21
+    ],
+    "prompt": {
+      "en": "Which link best connects finance, identity and forensic protection?",
+      "id": "Hubungan mana paling menghubungkan keuangan, identitas, serta perlindungan forensik?"
+    },
+    "options": [
+      {
+        "en": "Office proximity alone",
+        "id": "Kedekatan kantor saja"
+      },
+      {
+        "en": "One employee’s uncertain expression",
+        "id": "Ekspresi tidak pasti satu pegawai"
+      },
+      {
+        "en": "Only a repeated company nickname",
+        "id": "Hanya panggilan perusahaan berulang"
+      },
+      {
+        "en": "Matched transfers plus independently certified alias-to-report associations",
+        "id": "Transfer cocok serta hubungan alias-ke-laporan tersertifikasi independen"
+      }
+    ],
+    "answer": 3,
+    "explanation": {
+      "en": "Matched transfers plus independently certified alias-to-report associations",
+      "id": "Transfer cocok serta hubungan alias-ke-laporan tersertifikasi independen"
+    },
+    "refs": [
+      "E19-12",
+      "E20-13",
+      "E21-12",
+      "E21-13"
+    ],
+    "status": "VERIFIED",
+    "domain": "synthesis"
+  },
+  {
+    "id": "N22",
+    "unlock": 22,
+    "edge": [
+      19,
+      22
+    ],
+    "prompt": {
+      "en": "How should the recruitment hierarchy be classified?",
+      "id": "Bagaimana hierarki rekrutmen perlu diklasifikasikan?"
+    },
+    "options": [
+      {
+        "en": "Personal hardship proves deliberate offending",
+        "id": "Kesulitan pribadi membuktikan pelanggaran sengaja"
+      },
+      {
+        "en": "All received versions were identical",
+        "id": "Semua versi diterima identik"
+      },
+      {
+        "en": "Mara controls assigned offers; intermediaries relay them; workers have separately documented knowledge",
+        "id": "Mara mengendalikan tawaran ditugaskan; perantara meneruskan; pekerja memiliki pengetahuan terdokumentasi terpisah"
+      },
+      {
+        "en": "Every courier is automatically a central organizer",
+        "id": "Semua kurir otomatis pengatur pusat"
+      }
+    ],
+    "answer": 2,
+    "explanation": {
+      "en": "Mara controls assigned offers; intermediaries relay them; workers have separately documented knowledge",
+      "id": "Mara mengendalikan tawaran ditugaskan; perantara meneruskan; pekerja memiliki pengetahuan terdokumentasi terpisah"
+    },
+    "refs": [
+      "E22-05",
+      "E22-06",
+      "E22-08",
+      "E22-12"
+    ],
+    "status": "VERIFIED",
+    "domain": "hypothesis"
+  },
+  {
+    "id": "N23",
+    "unlock": 23,
+    "edge": [
+      22,
+      23
+    ],
+    "prompt": {
+      "en": "What does the fifth investigation add to the network model?",
+      "id": "Apa tambahan investigasi kelima pada model jaringan?"
+    },
+    "options": [
+      {
+        "en": "A private-fact message proves every target knowingly joined",
+        "id": "Pesan fakta privat membuktikan semua target bergabung sadar"
+      },
+      {
+        "en": "Verified information-control links under a shared parent layer, while the holder still requires original authority evidence",
+        "id": "Hubungan kendali informasi terverifikasi di bawah lapisan induk bersama, sementara pemegang masih memerlukan bukti wewenang asli"
+      },
+      {
+        "en": "Ivo must own the parent because he observes many divisions",
+        "id": "Ivo pasti memiliki induk karena mengamati banyak divisi"
+      },
+      {
+        "en": "The first four cases become unrelated",
+        "id": "Empat kasus awal menjadi tak terkait"
+      }
+    ],
+    "answer": 1,
+    "explanation": {
+      "en": "Verified information-control links under a shared parent layer, while the holder still requires original authority evidence",
+      "id": "Hubungan kendali informasi terverifikasi di bawah lapisan induk bersama, sementara pemegang masih memerlukan bukti wewenang asli"
+    },
+    "refs": [
+      "E23-06",
+      "E23-16",
+      "E23-17",
+      "E23-18"
+    ],
+    "status": "VERIFIED",
+    "domain": "organization"
+  }
+]
